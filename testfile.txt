@@ -1,2 +1,2 @@
 Hello all,
-Welcome to Git Branching.
+Trying to do merge conflict.
