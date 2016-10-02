@@ -1,2 +1,5 @@
+Adding more lines.
+-------------------------
+-------------------------
 Hello all,
 Trying to do merge conflict.
