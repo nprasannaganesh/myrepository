@@ -1,3 +1,6 @@
+Adding more lines.
+-------------------------
+-------------------------
 Hello all,
 Making more edits
 Trying to do merge conflict.
